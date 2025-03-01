@@ -8,8 +8,8 @@ const socials = [
     icon: <FaLinkedinIn />,
     path: "https://www.linkedin.com/in/jeferson-galvis-4078a5202/",
   },
-  { icon: <FaInstagram />, path: "https://instagram.com/tuusuario" },
-  { icon: <FaXTwitter />, path: "https://x.com/tuusuario" },
+  { icon: <FaInstagram />, path: "https://www.instagram.com/jefergv28/" },
+  { icon: <FaXTwitter />, path: "https://x.com/Jefersongv28" },
 ];
 
 const Social = ({ containerStyles, iconStyles }) => {
