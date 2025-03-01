@@ -99,7 +99,7 @@ const projects = [
         name: "CSS",
       },
     ],
-    image: "/images/PROMODORO.png",
+    image: "/images/pd.png",
     live: "https://jefergv28.github.io/Promodoro/",
     github: "https://github.com/jefergv28/Promodoro",
   },

@@ -11,7 +11,7 @@ const Header = () => {
       <div className="container mx-auto flex justify-between items-center">
         {/* logo */}
         <Link href="/" className="flex items-center gap-2">
-          <Image src="/images/Logo.svg" alt="Logo" width={50} height={50} />
+          <Image src="/logo.svg" alt="Logo" width={50} height={50} />
           <h1 className="text-4xl font-semibold">
             Jejerson <span className="text-accent">.</span>
           </h1>
